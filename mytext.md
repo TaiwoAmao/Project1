@@ -1,5 +1,6 @@
-git clone url
-git status
-git push
-git merge
-git pull
+git clone url <br>
+git status <br>
+git push <br>
+git merge <br>
+git pull <br>
+git checkout -b TaiwoA
